@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-ipad/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native-myapp/myApp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-ipad/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native-myapp/myApp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/33d26072b97a0fc6d95bc449440521e29f22ea27/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/tiger/.android/build-cache/1f8501340fa6ad18d0bf2d50b9fb5b8625e64868/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/tiger/.android/build-cache/1f8501340fa6ad18d0bf2d50b9fb5b8625e64868/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

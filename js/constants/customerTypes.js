@@ -1,0 +1,2 @@
+export const ADDCUSTOMER = "ADDCUSTOMER";
+export const DELCUSTOMER = "DELCUSTOMER";

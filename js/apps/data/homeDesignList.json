@@ -1,0 +1,77 @@
+{
+    "design": [
+    {
+        "name": "BALI",
+        "imgUri": "http://www.kic.com.cn/uploads/201701/2017012614231101.jpg",
+        "child": [
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614231101.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614231111.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614231122.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614231132.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614231142.jpg"
+        }]
+
+    },
+    {
+        "name": "BREDA",
+        "imgUri": "http://www.kic.com.cn/uploads/201701/2017012614313881.jpg",
+        "child": [
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614313881.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614313871.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614313892.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614313902.jpg"
+        }]
+
+    },
+    {
+        "name": "COMET",
+        "imgUri": "http://www.kic.com.cn/uploads/201701/2017012614325265.jpg",
+        "child": [
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614325265.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614325275.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614325285.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614325295.jpg"
+        }]
+    },
+    {
+        "name": "LASER BRILLANT（blue）",
+        "imgUri": "http://www.kic.com.cn/uploads/201701/2017012614350842.jpg",
+        "child": [
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614350842.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614350852.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614350862.jpg"
+        },
+        {
+            "uri": "http://www.kic.com.cn/uploads/201701/2017012614350872.jpg"
+        }]
+
+    }]
+}

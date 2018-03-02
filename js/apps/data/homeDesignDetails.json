@@ -1,0 +1,302 @@
+[
+{
+    "name": "FLUXUS / 轻奢",
+    "id": "style01",
+    "style": "FLUXUS",
+    "design": [
+    {
+        "name": "BALI",
+        "imgUri": "FLUXUS1",
+        "child": [
+        {
+            "url": "FLUXUS1_1"
+        },
+        {
+            "url": "FLUXUS1_2"
+        },
+        {
+            "url": "FLUXUS1_3"
+        },
+        {
+            "url": "FLUXUS1_4"
+        },
+        {
+            "url": "FLUXUS1_5"
+        }]
+    },
+    {
+        "name": "COMET",
+        "imgUri": "FLUXUS2",
+        "child": [
+        {
+            "url": "FLUXUS2_1"
+        },
+        {
+            "url": "FLUXUS2_2"
+        },
+        {
+            "url": "FLUXUS2_3"
+        },
+        {
+            "url": "FLUXUS2_4"
+        }, ]
+    },
+    {
+        "name": "LASER SOFT",
+        "imgUri": "FLUXUS3",
+        "child": [
+        {
+            "url": "FLUXUS3_1"
+        },
+        {
+            "url": "FLUXUS3_2"
+        },
+        {
+            "url": "FLUXUS3_3"
+        },
+        {
+            "url": "FLUXUS3_4"
+        }, ]
+    },
+    {
+        "name": "NEO",
+        "imgUri": "FLUXUS4",
+        "child": [
+        {
+            "url": "FLUXUS4_1"
+        }]
+    },
+    {
+        "name": "UNO",
+        "imgUri": "FLUXUS5",
+        "child": [
+        {
+            "url": "FLUXUS5_1"
+        },
+        {
+            "url": "FLUXUS5_2"
+        },
+        {
+            "url": "FLUXUS5_3"
+        }, ]
+    },
+    {
+        "name": "XL1481",
+        "imgUri": "FLUXUS6",
+        "child": [
+        {
+            "url": "FLUXUS6_1"
+        },
+        {
+            "url": "FLUXUS6_2"
+        },
+        {
+            "url": "FLUXUS6_3"
+        },
+        {
+            "url": "FLUXUS6_4"
+        },
+        {
+            "url": "FLUXUS6_5"
+        }, ]
+    }]
+},
+{
+    "name": "SIGNATURE / 奢华",
+    "id": "style02",
+    "style": "SIGNATURE",
+    "design": [
+    {
+        "name": "av1070-1",
+        "imgUri": "SIGNATURE1",
+        "child": [
+        {
+            "url": "SIGNATURE1_1"
+        },
+        {
+            "url": "SIGNATURE1_2"
+        }]
+    },
+    {
+        "name": "av2030",
+        "imgUri": "SIGNATURE2",
+        "child": [
+        {
+            "url": "SIGNATURE2_1"
+        },
+        {
+            "url": "SIGNATURE2_2"
+        },
+        {
+            "url": "SIGNATURE2_3"
+        }]
+    },
+    {
+        "name": "av5020",
+        "imgUri": "SIGNATURE3",
+        "child": [
+        {
+            "url": "SIGNATURE3_1"
+        }]
+    },
+    {
+        "name": "av5090",
+        "imgUri": "SIGNATURE4",
+        "child": [
+        {
+            "url": "SIGNATURE4_1"
+        },
+        {
+            "url": "SIGNATURE4_2"
+        }]
+    },
+    {
+        "name": "av6000",
+        "imgUri": "SIGNATURE5",
+        "child": [
+        {
+            "url": "SIGNATURE5_1"
+        },
+        {
+            "url": "SIGNATURE5_2"
+        },
+        {
+            "url": "SIGNATURE5_3"
+        },
+        {
+            "url": "SIGNATURE5_4"
+        }]
+    },
+    {
+        "name": "av5090 GL",
+        "imgUri": "SIGNATURE6",
+        "child": [
+        {
+            "url": "SIGNATURE6_1"
+        },
+        {
+            "url": "SIGNATURE6_2"
+        },
+        {
+            "url": "SIGNATURE6_3"
+        }]
+    },
+    {
+        "name": "av5082",
+        "imgUri": "SIGNATURE7",
+        "child": [
+        {
+            "url": "SIGNATURE7_1"
+        },
+        {
+            "url": "SIGNATURE7_2"
+        },
+        {
+            "url": "SIGNATURE7_3"
+        }]
+    },
+    {
+        "name": "L21 LINEA",
+        "imgUri": "SIGNATURE8",
+        "child": [
+        {
+            "url": "SIGNATURE8_1"
+        },
+        {
+            "url": "SIGNATURE8_2"
+        }]
+    }]
+},
+{
+    "name": "PREMIUM / 尊享",
+    "id": "style03",
+    "style": "PREMIUM",
+    "design": [
+    {
+        "name": "G14 GLAS TEC PLUS",
+        "imgUri": "PREMIUM1",
+        "child": [
+        {
+            "url": "PREMIUM1_1"
+        },
+        {
+            "url": "PREMIUM1_2"
+        }]
+    },
+    {
+        "name": "G15 GLAS TEC SATIN",
+        "imgUri": "PREMIUM2",
+        "child": [
+        {
+            "url": "PREMIUM2_1"
+        },
+        {
+            "url": "PREMIUM2_2"
+        }]
+    },
+    {
+        "name": "GL7710",
+        "imgUri": "PREMIUM3",
+        "child": [
+        {
+            "url": "PREMIUM3_1"
+        },
+        {
+            "url": "PREMIUM3_2"
+        },
+        {
+            "url": "PREMIUM3_3"
+        },
+        {
+            "url": "PREMIUM3_4"
+        }]
+    },
+    {
+        "name": "XL7315",
+        "imgUri": "PREMIUM4",
+        "child": [
+        {
+            "url": "PREMIUM4_1"
+        },
+        {
+            "url": "PREMIUM4_2"
+        },
+        {
+            "url": "PREMIUM4_3"
+        },
+        {
+            "url": "PREMIUM4_4"
+        }]
+    },
+    {
+        "name": "XL7700",
+        "imgUri": "PREMIUM5",
+        "child": [
+        {
+            "url": "PREMIUM5_1"
+        },
+        {
+            "url": "PREMIUM5_2"
+        },
+        {
+            "url": "PREMIUM5_3"
+        }]
+    },
+    {
+        "name": "XL7050",
+        "imgUri": "PREMIUM6",
+        "child": [
+        {
+            "url": "PREMIUM6_1"
+        },
+        {
+            "url": "PREMIUM6_2"
+        },
+        {
+            "url": "PREMIUM6_3"
+        },
+        {
+            "url": "PREMIUM6_4"
+        }]
+    }]
+}]

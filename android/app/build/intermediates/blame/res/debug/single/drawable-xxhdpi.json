@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/launch_screen.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/res/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/launch_screen.png",
+        "source": "/Users/tiger/work/YM/APP/otherWork/android/app/src/main/res/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/tiger/work/YM/APP/otherWork/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    }
+]

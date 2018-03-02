@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/tiger/.android/build-cache/af47995d4c9073eae771e83ae60e740c63b183db/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from [myApp:react-native-fs:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-fs/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-81
+MERGED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:11:5-64
+MERGED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:11:22-62
+uses-sdk
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:14:5-16:41
+MERGED from [myApp:react-native-splash-screen:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [myApp:react-native-fs:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-fs/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [myApp:react-native-orientation:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-orientation/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [myApp:react-native-fetch-blob:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [myApp:react-native-video:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-video/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/tiger/.android/build-cache/77bf41fe1318386a890e92e58a3fa289da51a274/output/AndroidManifest.xml:8:5-10:41
+MERGED from [myApp:react-native-vector-icons:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/tiger/.android/build-cache/af47995d4c9073eae771e83ae60e740c63b183db/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/tiger/.android/build-cache/1f8501340fa6ad18d0bf2d50b9fb5b8625e64868/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] /Users/tiger/.android/build-cache/a56aeb74c5c385064518578ac57391f072041021/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/tiger/.android/build-cache/c13daf66022ad0f33050a74a045108ec2dfa06a4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/tiger/.android/build-cache/cb63964f80184561ee8708f48dc702baadb9cba8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/tiger/.android/build-cache/33f1327b9324be065e1f982017c00ab333085c3b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/tiger/.android/build-cache/b50dad415c9cbcac9b54363883f41da2c52c42b4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/tiger/.android/build-cache/2589e97c97d85133932e923d1e79381c1a6fc8ac/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/tiger/.android/build-cache/622857e676eb35c6c8bb6923e0e15cb0d81e6923/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] /Users/tiger/.android/build-cache/c1043e74ca45e8f172d9ad0b9b86b3da268ce94e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tiger/.android/build-cache/369e384cb5294128c1c8ad9a2fd9d46510c99bb9/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/tiger/.android/build-cache/2ad072f2efa86ad385cfad2f715477dc5c5f5d76/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/tiger/.android/build-cache/3c2d695521bc901a24d434cd554f9ef157686938/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/tiger/.android/build-cache/4b1495d82f5ac49641f45b919ef0dcaebde02c0a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/tiger/.android/build-cache/4f903b0ab5611d315fe128c2457297d444784eb1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/tiger/.android/build-cache/b4d3dd9477ec49c8d1b36b01dae47fdf9c198f49/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/tiger/.android/build-cache/6e1722efbebdbfb9adbb284ea258d1b3f1a3e78c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tiger/.android/build-cache/2872d380e3ba65740cd9600dde5c900865a57bd6/output/AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/tiger/.android/build-cache/1f8501340fa6ad18d0bf2d50b9fb5b8625e64868/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:16:9-38
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:15:9-35
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:18:5-41:19
+MERGED from [myApp:react-native-splash-screen:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [myApp:react-native-fetch-blob:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/tiger/.android/build-cache/af47995d4c9073eae771e83ae60e740c63b183db/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/tiger/.android/build-cache/1f8501340fa6ad18d0bf2d50b9fb5b8625e64868/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/tiger/.android/build-cache/a56aeb74c5c385064518578ac57391f072041021/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/tiger/.android/build-cache/c13daf66022ad0f33050a74a045108ec2dfa06a4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/tiger/.android/build-cache/cb63964f80184561ee8708f48dc702baadb9cba8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/tiger/.android/build-cache/33f1327b9324be065e1f982017c00ab333085c3b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/tiger/.android/build-cache/b50dad415c9cbcac9b54363883f41da2c52c42b4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/tiger/.android/build-cache/2589e97c97d85133932e923d1e79381c1a6fc8ac/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/tiger/.android/build-cache/622857e676eb35c6c8bb6923e0e15cb0d81e6923/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/tiger/.android/build-cache/c1043e74ca45e8f172d9ad0b9b86b3da268ce94e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tiger/.android/build-cache/2872d380e3ba65740cd9600dde5c900865a57bd6/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/tiger/.android/build-cache/3fc1e7f2459628c083a25824e0fcc84905626781/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:21:7-39
+	android:supportsRtl
+		ADDED from [myApp:react-native-splash-screen:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:20:7-33
+	android:icon
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:22:7-41
+	android:theme
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:23:7-38
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:19:7-38
+activity#com.myapp.MainActivity
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:24:7-33:18
+	android:label
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:26:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:28:9-66
+	android:configChanges
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:27:9-79
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:25:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:29:9-32:25
+action#android.intent.action.MAIN
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:30:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:31:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:34:7-84
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:34:17-81
+activity#com.myapp.wxapi.WXEntryActivity
+ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:35:7-39:9
+	android:label
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:37:7-39
+	android:exported
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:38:7-30
+	android:name
+		ADDED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:36:7-44
+uses-feature#android.hardware.camera
+ADDED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [myApp:react-native-camera:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:17:9-57
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [myApp:RCTWeChat:unspecified] /Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/tiger/work/YM/APP/otherWork/android/app/src/main/AndroidManifest.xml:1:1-43:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/tiger/work/YM/APP/otherWork/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

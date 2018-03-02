@@ -1,0 +1,48 @@
+{
+	"brand": [{
+        "id": "fs15FWPLBUA67TmKskqG",
+        "val": "KIC-NL"
+    },
+    {
+        "id": "fCkde5TpleaBbjZekEeq",
+        "val": "KIC-BA-XL"
+    },
+    {
+        "id": "fQiXE4maTcd58SVrs0pE",
+        "val": "KIC-HA-CL"
+    }],
+    "style": [{
+        "id": "fICO6roiPQ7bssXiJ24U",
+        "val": "现代简约"
+    },
+    {
+        "id": "fSeAbRYOjOUmRV4gOD72",
+        "val": "欧式"
+    }],
+    "area": [
+    {
+        "id": "0#10",
+        "val": "10㎡以下"
+    },
+    {
+        "id": "10#20",
+        "val": "10-20㎡"
+    },
+    {
+        "id": "20#30",
+        "val": "20-30㎡"
+    },
+    {
+        "id": "30#40",
+        "val": "30-40㎡"
+    },
+    {
+        "id": "40#50",
+        "val": "40-50㎡"
+    },
+    {
+        "id": "50#9999",
+        "val": "50㎡以上"
+    }]
+
+}

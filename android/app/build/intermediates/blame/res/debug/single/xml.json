@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-ipad/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/3bdbd102744321b9f3a393e784e2233995dbefb3/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/bbb43cd03ad736b1d858302704bee72dc13f764d/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/e29145a8886ee6254c52e952c1b587c620f0e80a/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native-myapp/myApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/zhenglinhu/.android/build-cache/3dd23cc8a80ef4ca85af92adc31720ad813f0f05/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/tiger/.android/build-cache/af47995d4c9073eae771e83ae60e740c63b183db/output/res/xml/preferences.xml"
+    }
+]

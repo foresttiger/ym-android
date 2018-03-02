@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-ipad/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-ipad/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/tiger/work/YM/APP/otherWork/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native-myapp/myApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/zhenglinhu/workspace/react-native-myapp/myApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

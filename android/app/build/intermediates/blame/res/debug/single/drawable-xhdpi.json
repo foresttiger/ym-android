@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/launch_screen.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/res/drawable-xhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/js_apps_images_ad2.png",
+        "source": "/Users/tiger/work/YM/APP/otherWork/android/app/src/main/res/drawable-xhdpi/js_apps_images_ad2.png"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/launch_screen.png",
+        "source": "/Users/tiger/work/YM/APP/otherWork/android/app/src/main/res/drawable-xhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/js_apps_images_ad2.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/res/drawable-xhdpi/js_apps_images_ad2.png"
+    },
+    {
+        "merged": "/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/tiger/work/YM/APP/otherWork/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    }
+]
