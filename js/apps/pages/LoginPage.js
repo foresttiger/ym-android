@@ -85,7 +85,8 @@ class LoginPage extends Component {
       return false;
     }else{
       if (nextProps.message) {
-        toastShort(nextProps.message);
+          Alert.alert('提示', nextProps.message, [{ text: "确认" }]);
+        // toastShort(nextProps.message);
       }
       var modelView = [];
       var data = {
@@ -112,14 +113,17 @@ class LoginPage extends Component {
       let userName = this.state.username;
       let password = this.state.password;
       if (userName === '') {
-          toastShort('用户名不能为空...');
+          Alert.alert('提示', '用户名不能为空！', [{ text: "确认" }]);
+          // toastShort('用户名不能为空...');
           return;
       }else if (!USRNAME_REGEX.test(userName)){
-          toastShort('请输入可用的用户名...');
+          Alert.alert('提示', '请输入可用的用户名！', [{ text: "确认" }]);
+          // toastShort('请输入可用的用户名...');
           return;
       }
       if (password === '') {
-          toastShort('密码不能为空...');
+          Alert.alert('提示', '密码不能为空！', [{ text: "确认" }]);
+          // toastShort('密码不能为空...');
           return;
       }
       // else if (!PWD_REGEX.test(password)) {}{

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/tiger/work/YM/APP/otherWork/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/tiger/work/YM/APP/otherWork/android/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/src/debug/jniLibs"/></dataSet></merger>

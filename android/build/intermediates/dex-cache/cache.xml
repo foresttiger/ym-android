@@ -3,129 +3,84 @@
 
     <item
         is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-orientation/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bfa307df6aeea58d42a35343502aea5598117703">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_6297597e62cf0c350047216e55112a8a7affa934.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-fs/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="eb5faf5cd722d1772c50b0502ecabfa448b13844">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_83a101c4bbe448220191ed7915c65fd994aa66b2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="89130388da2ea73dd7ef12caea950c8abab7d44e">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_aa699052e5bc906f3714b9e1463abe8d101822da.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_aa70f50fb8e07126396c5909e46d036fef2127a1.jar" />
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_e41d69f34a70f45eea6538efb94bdd4bf1d7fbc9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tiger/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="55615fa2582424e38705487d1d3969af8554f637">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_f01b77a6f97142e93ff93ac01b65be1621a21d18.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-video/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_37f1d8b3fc7e88308df4f137dd5f33159d8a0152.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a0df48d6cfc69f613e6b128c2fc769037e03d5a3">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_76e6d96e33fa2a6088e6610ed7980b895c230c3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_fa84968a07bc568a1c53a18d4a60c6404d553b6b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b1c77b0b2720b565b22c0d808e2dc6053572d991">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_ca2e167c78458af8f8fc2e2eac7c7e09b28b39d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="213b6f2ff8a77c20ac374430a5868a2ddca2f4e1">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_68635758ca8a075edc5b44fdb777e58e7fb56063.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tiger/work/YM/APP/otherWork/node_modules/react-native-wechat/android/build/intermediates/bundles/default/libs/libammsdk.jar"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-wechat/android/build/intermediates/bundles/default/libs/libammsdk.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/libammsdk_f5a4f40b0119b296d15784e161a2a266ea772c24.jar" />
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/libammsdk_71c4b520404d9727786f777e47a2c8a4734bc226.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tiger/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_6a55cfe8cd72d0b4ec4064ca26f2b882bf27545c.jar" />
+        sha1="a0df48d6cfc69f613e6b128c2fc769037e03d5a3">
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_50d722a06190c145436cc6fd42cf20fa3c62161d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tiger/.android/build-cache/af47995d4c9073eae771e83ae60e740c63b183db/output/jars/libs/infer-annotations-1.5.jar"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_3347ce0e2697ad74a791c7cec47e61e4bd96edd9.jar" />
+        sha1="b1c77b0b2720b565b22c0d808e2dc6053572d991">
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_5e5551c7871b74fd4fc820d71caf3251f5ad0b8b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tiger/.android/build-cache/af47995d4c9073eae771e83ae60e740c63b183db/output/jars/classes.jar"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-video/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
-        <dex dex="/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/pre-dexed/debug/classes_63cdc8f3692287eb91f271b7529639673c16849b.jar" />
+        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_229793d5c200248ee369415b6f919444aa16fcee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89130388da2ea73dd7ef12caea950c8abab7d44e">
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_eb756365b8e6a0e862a05a600f4de32ebb88b3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-wechat/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="213b6f2ff8a77c20ac374430a5868a2ddca2f4e1">
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_9aa0780715f58696101ad8c51632db4241207053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-orientation/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfa307df6aeea58d42a35343502aea5598117703">
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_36657766c683511b229422e6598dfbc8920f210a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/node_modules/react-native-fs/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb5faf5cd722d1772c50b0502ecabfa448b13844">
+        <dex dex="/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/pre-dexed/debug/classes_c27043ed731c9273caa3b867f9727b00d585d9f2.jar" />
     </item>
 
 </items>

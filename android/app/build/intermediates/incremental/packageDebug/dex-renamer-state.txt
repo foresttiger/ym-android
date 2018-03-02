@@ -1,4 +1,4 @@
-#Thu Mar 01 22:18:25 CST 2018
-base.0=/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Mar 02 12:00:50 CST 2018
+base.0=/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/tiger/work/YM/APP/otherWork/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/zhenglinhu/workspace/react-native/demo/myApp-iphone/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

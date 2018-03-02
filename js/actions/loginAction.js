@@ -44,8 +44,8 @@ export function login(obj) {
                         storageSave(obj)
                         dispatch(loginSuccess(true, obj));
                         break;
-                    case -1:
-                        dispatch(loginError(false,"用户或密码错误！"));
+                    default:
+                        dispatch(loginError(false,res.message));
                         break;
                 }
                 // dispatch(loginSuccess(true, user));

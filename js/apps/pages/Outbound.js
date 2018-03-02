@@ -149,6 +149,8 @@ class Outbound extends Component {
                         this.setState({ "carScannTitle": "重新扫描", "outboundCars": it, "carshadowColor": "rgba(0,0,0,0.5)" });
                     }
                     break;
+                // case "incar":
+                //   break;
                 default:
                     Alert.alert('提示', '扫描失败！重新扫描！', [{ text: "确认" }]);
                     break;
@@ -248,13 +250,13 @@ class Outbound extends Component {
                       // _this.back();
                       break;
 
-                  case -1:
-                      Alert.alert('提示','出库失败！',
+                  default:
+                      Alert.alert('提示',res.message,
                         [{text:"确认"}]
                       );
                       // toastShort("出库失败！");
                       _this.setState({
-                          loginBtn: '重 新 入 库'
+                          loginBtn: '重 新 出 库'
                       })
                       break;
 

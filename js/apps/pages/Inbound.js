@@ -148,6 +148,8 @@ class Inbound extends Component {
                     this.setState({ "carScannTitle": "重新扫描", "inboundCars": it, "carshadowColor": "rgba(0,0,0,0.5)" });
                 }
                 break;
+            // case "error":
+            //     break;
             default:
                 Alert.alert('提示', '扫描失败！重新扫描！', [{ text: "确认" }]);
                 break;
@@ -245,8 +247,8 @@ class Inbound extends Component {
                       );
                       break;
 
-                  case -1:
-                      Alert.alert('提示','入库失败！',
+                  default:
+                      Alert.alert('提示',res.message,
                           [{text:"确认"}]
                       );
                       _this.setState({

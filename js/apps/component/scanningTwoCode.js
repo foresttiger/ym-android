@@ -60,11 +60,14 @@ export default class ScanningTwoCode extends Component {
             case "local":
                 DeviceEventEmitter.emit('ChangeUI', { type:this.state.scanningType, localMs: this.state.local });
                 break;
-            case "car":
+            case "incar":
                 DeviceEventEmitter.emit('ChangeUI', { type:this.state.scanningType, carMs: this.state.car });
                 break;
             case "outcar":
                 DeviceEventEmitter.emit('ChangeUI', { type:this.state.scanningType, carMs: this.state.car });
+                break;
+            case "error":
+                 DeviceEventEmitter.emit('ChangeUI', { type:this.state.scanningType, carMs: this.state.error });
                 break;
         }
         // DeviceEventEmitter.emit('ChangeUI', { color: 'red', text: '通知' });
@@ -144,26 +147,47 @@ export default class ScanningTwoCode extends Component {
             isFirstIn = false;
             // console.log(StringUtil.object2Json(this.props));
             // console.log(e.data)
-            // if(true){
-            //      Alert.alert('退出登录','扫码失败！',
-            //       [{text:"确认", onPress:this.back.bind(this)}]
-            //     );
-            // }
-            var datas = JSON.parse(e.data);
+            var isJson = false;
+            if (typeof e.data == 'string') {
+                try {
+                    var obj=JSON.parse(e.data);
+                    if(typeof obj == 'object' && obj ){
+                        isJson = true;
+                        // return true;
+                    }else{
 
-            switch (this.state.scanningType) {
-                case "componentsMs":
-                    this.setState({ componentsMs: datas});
-                    break;
-                case "local":
-                    this.setState({ local: datas});
-                    break;
-                case "incar":
-                    this.setState({ car: datas});
-                    break;
-                case "outcar":
-                    this.setState({ car: datas});
-                    break;
+                        // return isJson;
+                    }
+
+                } catch(e) {
+                    isJson = false;
+                    console.log(e);
+                    // return isJson;
+                }
+            }
+            if (isJson) {
+                var datas = JSON.parse(e.data);
+
+                switch (this.state.scanningType) {
+                    case "componentsMs":
+                        this.setState({ componentsMs: datas});
+                        break;
+                    case "local":
+                        this.setState({ local: datas});
+                        break;
+                    case "incar":
+                        this.setState({ car: datas});
+                        break;
+                    case "outcar":
+                        this.setState({ car: datas});
+                        break;
+                    default:
+                        this.setState({ scanningType:"error",error: "扫描二维码失败！"});
+                        break;
+
+                }
+            }else{
+                this.setState({ scanningType:"error",error: "扫描二维码失败！"});
             }
 
             console.log(datas)

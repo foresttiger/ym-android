@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="android-scalablevideoview-1.0.4">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/77bf41fe1318386a890e92e58a3fa289da51a274/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/77bf41fe1318386a890e92e58a3fa289da51a274/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/64a5280d2ea90d3f97d5224395eca5d3289afe9f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/64a5280d2ea90d3f97d5224395eca5d3289afe9f/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
